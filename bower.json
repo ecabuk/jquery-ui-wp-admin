@@ -1,0 +1,18 @@
+{
+  "name": "jquery-ui-wp-admin",
+  "homepage": "https://github.com/ecabuk/jquery-ui-wp-admin",
+  "authors": [
+    "Evrim Çabuk <ecabuk@ecabuk.net>"
+  ],
+  "description": "jQuery UI Theme for WP Admin",
+  "main": "1.11.4/jquery-ui.min.css",
+  "moduleType": [],
+  "keywords": [
+    "jquery",
+    "jquery-ui",
+    "wordpress",
+    "wp"
+  ],
+  "license": "MIT",
+  "private": true
+}
